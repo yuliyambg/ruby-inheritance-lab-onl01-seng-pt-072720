@@ -5,5 +5,9 @@ class Teacher < User
   def teach
     KNOWLEDGE.sample
   end
+
+  def test
+    'test'
+  end
   
 end
