@@ -6,8 +6,4 @@ class Teacher < User
     KNOWLEDGE.sample
   end
 
-  def test
-    'test'
-  end
-  
 end
